@@ -3,7 +3,7 @@ module github.com/go-andiamo/gopt-mongo
 go 1.18
 
 require (
-	github.com/go-andiamo/gopt v1.3.1
+	github.com/go-andiamo/gopt v1.6.0
 	github.com/stretchr/testify v1.8.1
 	go.mongodb.org/mongo-driver v1.11.0
 )
